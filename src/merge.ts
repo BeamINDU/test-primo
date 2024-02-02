@@ -1,3 +1,4 @@
+//ใช้ node.js ด้วยครับ
 function merge(
   collection1: number[],
   collection2: number[],
